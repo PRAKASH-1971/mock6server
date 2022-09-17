@@ -10,15 +10,4 @@
      "price":6 
     }
   ]
-  "wishlist":[
-  {
-  "id":1,
-     "brand":"Suzuki",
-     "gair":"manual",
-     "year":2011,
-     "kms":120322,
-     "desc":"Suzuki car manual 6 speed",
-     "price":6 
-  }
-]
 }
